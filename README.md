@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**emmanuelonyeabor68-cmd/emmanuelonyeabor68-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Hi, I'm Emmanuel 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Backend Developer focused on building scalable and secure systems.
+
+I specialize in Python and Django, building RESTful APIs, authentication systems, and real-world backend architectures.  
+Currently leveling up in system design, performance optimization, and advanced backend engineering.
+
+I believe in building in public, consistency over hype, and mastering fundamentals deeply.
+
+---
+
+## 🧠 What I'm Working On
+- Building production-ready APIs
+- Implementing authentication (JWT, roles & permissions)
+- Designing scalable backend systems
+- Learning system design & backend architecture
+- Strengthening testing & debugging skills
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- Postman
+- Deployment (Render)
+
+---
+
+## 📈 Current Goal
+To transition from backend beginner to advanced backend engineer capable of designing real-world scalable systems.
+
+...
+⚡ Building. Breaking. Debugging and Improving.
