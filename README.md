@@ -2,7 +2,7 @@
 
 # Hi, I'm Emmanuel 👋
 
-🚀 Backend Developer focused on building scalable and secure systems.
+I'm a Backend Developer focused on building scalable and secure systems.
 
 I specialize in Python and Django, building RESTful APIs, authentication systems, and real-world backend architectures.  
 Currently leveling up in system design, performance optimization, and advanced backend engineering.
