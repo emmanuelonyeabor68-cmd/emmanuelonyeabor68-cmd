@@ -22,13 +22,24 @@ Strengthening testing, debugging, and code structure
 
 🛠 Tech Stack
 
+HTML,CSS
+
 Python
+
 Django
+
 Django REST Framework
+
 JavaScript
+
+React
+
 PostgreSQL
+
 Postman
+
 Git & GitHub
+
 Deployment (Render)
 
 📈 Current Focus
