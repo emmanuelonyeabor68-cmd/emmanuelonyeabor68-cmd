@@ -7,6 +7,7 @@ Currently leveling up in system design, performance optimization, and full-stack
 I care more about fundamentals, clean architecture, and consistency than hype.
 
 🧠 What I'm Working On
+
 Building production-ready APIs
 Designing scalable backend systems
 Implementing authentication & role-based access control
