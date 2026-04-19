@@ -9,10 +9,15 @@ I care more about fundamentals, clean architecture, and consistency than hype.
 🧠 What I'm Working On
 
 Building production-ready APIs
+
 Designing scalable backend systems
+
 Implementing authentication & role-based access control
+
 Learning system design & distributed thinking
+
 Improving frontend integration with JavaScript
+
 Strengthening testing, debugging, and code structure
 
 🛠 Tech Stack
