@@ -21,6 +21,7 @@ Improving frontend integration with JavaScript
 Strengthening testing, debugging, and code structure
 
 🛠 Tech Stack
+
 Python
 Django
 Django REST Framework
