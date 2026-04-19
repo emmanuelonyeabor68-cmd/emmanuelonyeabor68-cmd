@@ -1,37 +1,30 @@
+Hi, I'm Emmanuel 👋
 
+I'm a Software Developer focused on building scalable backend systems and interactive web applications. 
 
-# Hi, I'm Emmanuel 👋
+I work mainly with Python and Django for backend engineering, and JavaScript for building dynamic interfaces and full-stack workflows. I build REST APIs, authentication systems, and real-world backend architectures.
+Currently leveling up in system design, performance optimization, and full-stack development.
+I care more about fundamentals, clean architecture, and consistency than hype.
 
-I'm a Backend Developer focused on building scalable and secure systems.
+🧠 What I'm Working On
+Building production-ready APIs
+Designing scalable backend systems
+Implementing authentication & role-based access control
+Learning system design & distributed thinking
+Improving frontend integration with JavaScript
+Strengthening testing, debugging, and code structure
 
-I specialize in Python and Django, building RESTful APIs, authentication systems, and real-world backend architectures.  
-Currently leveling up in system design, performance optimization, and advanced backend engineering.
+🛠 Tech Stack
+Python
+Django
+Django REST Framework
+JavaScript
+PostgreSQL
+Postman
+Git & GitHub
+Deployment (Render)
 
-I believe in building in public, consistency over hype, and mastering fundamentals deeply.
-
----
-
-## 🧠 What I'm Working On
-- Building production-ready APIs
-- Implementing authentication (JWT, roles & permissions)
-- Designing scalable backend systems
-- Learning system design & backend architecture
-- Strengthening testing & debugging skills
-
----
-
-## 🛠 Tech Stack
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- Postman
-- Deployment (Render)
-
----
-
-## 📈 Current Goal
-To transition from backend beginner to advanced backend engineer capable of designing real-world scalable systems.
-
+📈 Current Focus
+Becoming a solid software engineer who can design, build, and ship full systems—not just write code.
 ...
 ⚡ Building. Breaking. Debugging and Improving.
