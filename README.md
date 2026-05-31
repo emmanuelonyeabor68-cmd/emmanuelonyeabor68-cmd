@@ -4,7 +4,7 @@ I'm a Software Developer focused on building scalable backend systems and intera
 
 I work mainly with Python and Django for backend engineering, and JavaScript for building dynamic interfaces and full-stack workflows. I build REST APIs, authentication systems, and real-world backend architectures.
 Currently leveling up in system design, performance optimization, and full-stack development.
-I care more about fundamentals, clean architecture, and consistency than hype.
+I care more about fundamentals, clean architecture, and consistency.
 
 🧠 What I'm Working On
 
@@ -34,6 +34,8 @@ JavaScript
 
 React
 
+TailwindCSS
+
 PostgreSQL
 
 Postman
@@ -43,6 +45,6 @@ Git & GitHub
 Deployment (Render)
 
 📈 Current Focus
-Becoming a solid software engineer who can design, build, and ship full systems—not just write code.
+Becoming a solid software developer who can design, build, and ship full systems—not just write code.
 ...
 ⚡ Building. Breaking. Debugging and Improving.
