@@ -1,50 +1,14 @@
 Hi, I'm Emmanuel 👋
 
-I'm a Software Developer focused on building scalable backend systems and interactive web applications. 
+I'm a Software developer focused on scalable backend systems and interactive web applications.
+Python and Django are home base — REST APIs, authentication systems, real backend architecture. JavaScript extends that into dynamic interfaces and full-stack workflows. Right now I'm pushing deeper into system design, performance, and full-stack development, with fundamentals and clean architecture as the non-negotiables.
 
-I work mainly with Python and Django for backend engineering, and JavaScript for building dynamic interfaces and full-stack workflows. I build REST APIs, authentication systems, and real-world backend architectures.
-Currently leveling up in system design, performance optimization, and full-stack development.
-I care more about fundamentals, clean architecture, and consistency.
+#Currently Working on
+Production-ready APIs · Scalable backend design · Authentication & role-based access control · System design & distributed thinking · Frontend integration with JavaScript · Testing, debugging, code structure
 
-🧠 What I'm Working On
+#Stack
+HTML/CSS · Python · Django · Django REST Framework · JavaScript · React · TailwindCSS · PostgreSQL · Postman · Git/GitHub · Render
 
-Building production-ready APIs
-
-Designing scalable backend systems
-
-Implementing authentication & role-based access control
-
-Learning system design & distributed thinking
-
-Improving frontend integration with JavaScript
-
-Strengthening testing, debugging, and code structure
-
-🛠 Tech Stack
-
-HTML,CSS
-
-Python
-
-Django
-
-Django REST Framework
-
-JavaScript
-
-React
-
-TailwindCSS
-
-PostgreSQL
-
-Postman
-
-Git & GitHub
-
-Deployment (Render)
-
-📈 Current Focus
-Becoming a solid software developer who can design, build, and ship full systems—not just write code.
-...
-⚡ Building. Breaking. Debugging and Improving.
+#Focus
+Becoming a developer who designs, builds, and ships full systems — not just writes code.
+Building. Breaking. Debugging. Improving.
