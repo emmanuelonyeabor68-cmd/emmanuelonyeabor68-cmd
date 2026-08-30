@@ -1,4 +1,5 @@
 
+
 ## Hi, I'm Emmanuel Onyeabor
 
 Software developer focused on building scalable backend systems and interactive web applications. I work mainly with Python and Django for backend engineering, and JavaScript for building dynamic interfaces and full-stack workflows. Right now I'm pushing deeper into system design, performance, and full-stack development, with fundamentals and clean architecture as the non-negotiables.
@@ -30,7 +31,6 @@ Software developer focused on building scalable backend systems and interactive 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
 
 <br/>
 
