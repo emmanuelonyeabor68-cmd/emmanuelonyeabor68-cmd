@@ -42,14 +42,3 @@ Software developer focused on building scalable backend systems and interactive 
 <p align="center">
 Becoming a developer who designs, builds, and ships full systems. Building. Breaking. Debugging. Improving.
 </p>
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emmanuelonyeabor68-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelonyeabor68-cmd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelonyeabor68-cmd&theme=tokyonight&hide_border=true" />
-</p>
