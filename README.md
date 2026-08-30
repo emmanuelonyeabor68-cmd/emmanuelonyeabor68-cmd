@@ -15,7 +15,7 @@ Software developer focused on building scalable backend systems and interactive 
 
 <br/>
 
-## #Stack
+## #Tech Stack
 
 **Frontend**
 
