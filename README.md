@@ -1,9 +1,7 @@
 # Hi, I'm Emmanuel Onyeabor
 
 A Software developer focused on building scalable backend systems and interactive web applications. I work mainly with Python and Django for backend engineering, and JavaScript for building dynamic interfaces and full-stack workflows. Right now I'm pushing deeper into system design, performance, and full-stack development, with fundamentals and clean architecture as the non-negotiables.
-
 <br/>
-
 ## #Currently Working On
 
 - Production-ready APIs
