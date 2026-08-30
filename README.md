@@ -35,8 +35,6 @@ A Software developer focused on building scalable backend systems and interactiv
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br/>
-
 ## #Focus
 
 Becoming a developer who designs, builds, and ships full systems. 
