@@ -11,8 +11,6 @@ A Software developer focused on building scalable backend systems and interactiv
 - Frontend integration with JavaScript
 - Testing, debugging, code structure
 
-<br/>
-
 ## #Tech Stack
 
 **Frontend**
