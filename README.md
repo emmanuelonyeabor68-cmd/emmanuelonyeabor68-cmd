@@ -31,7 +31,6 @@ Software developer focused on building scalable backend systems and interactive 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-HTML/CSS · Python · Django · Django REST Framework · JavaScript · React · TailwindCSS · PostgreSQL · Postman · Render · Vercel
 
 <br/>
 
